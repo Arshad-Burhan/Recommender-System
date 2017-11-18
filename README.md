@@ -8,13 +8,13 @@ I implemented the collaborative filtering learning algorithm and applied it to a
 
 #### Project Files
 
-ex8 cofi.m - The main script for the exercise
-ex8 movies.mat - Movie Review Dataset
-ex8 movieParams.mat - Parameters provided for debugging
-checkCostFunction.m - Gradient checking for collaborative filtering
-computeNumericalGradient.m - Numerically compute gradients
-fmincg.m - Function minimization routine (similar to fminunc)
-loadMovieList.m - Loads the list of movies into a cell-array
-movie ids.txt - List of movies
-normalizeRatings.m - Mean normalization for collaborative filtering
-cofiCostFunc.m - Implement the cost function for collaborative filtering
+- ex8 cofi.m - The main script for the exercise
+- ex8 movies.mat - Movie Review Dataset
+- ex8 movieParams.mat - Parameters provided for debugging
+- checkCostFunction.m - Gradient checking for collaborative filtering
+- computeNumericalGradient.m - Numerically compute gradients
+- fmincg.m - Function minimization routine (similar to fminunc)
+- loadMovieList.m - Loads the list of movies into a cell-array
+- movie ids.txt - List of movies
+- normalizeRatings.m - Mean normalization for collaborative filtering
+- cofiCostFunc.m - Implement the cost function for collaborative filtering
